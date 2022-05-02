@@ -3,7 +3,7 @@
 
 main()
 {
-    float k,m; // k = velocidade;
+    float k, m; // k = velocidade;
     printf("Digite um numero: ");
     scanf("%f",&k);
 
